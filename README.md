@@ -1,4 +1,4 @@
-# Inverse-Filtering
+# Inverse Filtering
 
 This project demonstrates the technique of image restoration using inverse filtering in GNU Octave. It focuses on restoring images that have been degraded by known distortions.
 
