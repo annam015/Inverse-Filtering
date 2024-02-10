@@ -39,3 +39,7 @@ The `inverseFilter.m` script includes functions for:
 - Simulating motion blur on an image.
 - Applying inverse filtering to restore the blurred image.
 - Computing and displaying the Relative Mean Information (RMI) for quality assessment.
+
+## Screenshot
+
+![inverse_filter](https://github.com/annam015/Inverse-Filtering/assets/92727258/496fb760-8eef-493f-9099-b73c599e817b)
